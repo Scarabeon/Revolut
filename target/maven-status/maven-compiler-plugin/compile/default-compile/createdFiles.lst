@@ -1,8 +1,0 @@
-sk/scarabeon/revolut/api/domain/Account.class
-sk/scarabeon/revolut/api/domain/Message.class
-sk/scarabeon/revolut/api/exception/WithdrawalException.class
-sk/scarabeon/revolut/api/ApiApplication.class
-sk/scarabeon/revolut/api/dao/AccountDao.class
-sk/scarabeon/revolut/api/resources/Rates.class
-sk/scarabeon/revolut/api/resources/AccountResource.class
-sk/scarabeon/revolut/api/ApiConfiguration.class
