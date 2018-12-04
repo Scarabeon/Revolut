@@ -7,6 +7,7 @@ public class Account {
 	private long id;
 	private Currency currency;
 	private double balance;
+	private String foo;
 
 	public Account(long id, Currency currency, double balance) {
 		setId(id);
@@ -36,5 +37,13 @@ public class Account {
 
 	public void setBalance(double balance) {
 		this.balance = balance;
+	}
+
+	public String getFoo() {
+		return foo;
+	}
+
+	public void setFoo(String foo) {
+		this.foo = foo;
 	}
 }
